@@ -1,0 +1,12 @@
+{
+  "name": "babel-setstate",
+  "version": "1.0.0",
+  "description": "Experimental babel-plugin to replace React setState",
+  "main": "index.js",
+  "repository": "git@github.com:mbchoa/babel-setstate.git",
+  "author": "Michael-Bryant Choa <mbchoa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.1"
+  }
+}
